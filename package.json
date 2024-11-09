@@ -1,0 +1,26 @@
+{
+  "name": "ollama-shortcut",
+  "version": "1.0.0",
+  "description": "Ollama shortcut",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lypsoty112/ollama-shortcut.git"
+  },
+  "author": "Maarten Boon, BREVIS AI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lypsoty112/ollama-shortcut/issues"
+  },
+  "homepage": "https://github.com/lypsoty112/ollama-shortcut#readme",
+  "devDependencies": {
+    "electron": "^33.2.0"
+  },
+  "dependencies": {
+    "@blueprintjs/core": "^5.14.0"
+  }
+}
